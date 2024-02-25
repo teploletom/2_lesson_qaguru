@@ -15,5 +15,5 @@ def user():
 
 def test_login(user):
     username, password = user
-    assert username == "username"
+    assert username == "username", "Incorrect"
     assert password == "password"
