@@ -2,3 +2,4 @@ pytest
 allure-pytest
 faker
 allure
+random-user-agent
