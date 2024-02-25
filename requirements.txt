@@ -2,4 +2,3 @@ pytest
 allure-pytest
 faker
 allure
-allure
