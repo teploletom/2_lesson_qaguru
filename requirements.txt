@@ -3,3 +3,4 @@ allure-pytest
 faker
 allure
 random-user-agent
+time
